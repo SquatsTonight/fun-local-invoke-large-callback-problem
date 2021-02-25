@@ -1,0 +1,15 @@
+{
+  "author": "aliyun-fc",
+  "name": "aliyun-fc-nodejs",
+  "version": "1.0.0",
+  "description": "This package contains nodejs container agent.",
+  "main": "src/server.js",
+  "dependencies": {
+    "@alicloud/fc2": "^2.2.2"
+  },
+  "engines": {
+    "node": "*",
+    "npm": ">=2.15.8"
+  },
+  "scripts": {}
+}

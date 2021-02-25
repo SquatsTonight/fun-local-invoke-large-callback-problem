@@ -1,0 +1,22 @@
+{
+  "author": "aliyun-fc",
+  "name": "aliyun-fc-nodejs",
+  "version": "1.0.0",
+  "description": "This package contains nodejs container agent.",
+  "main": "src/server.js",
+  "license": "UNLICENSED",
+  "readme": "README",
+  "dependencies": {
+    "express": "^4.14.0",
+    "winston": "^2.2.0",
+    "winston-daily-rotate-file": "^1.2.0",
+    "body-parser": "^1.15.2",
+    "mkdirp": "^0.5.1"
+  },
+  "engines": {
+    "node": "*",
+    "npm": ">=2.15.8"
+  },
+  "scripts": {
+  }
+}
